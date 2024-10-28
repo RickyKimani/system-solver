@@ -23,7 +23,7 @@ This Python script was created to address a real challenge I encountered while s
 ## How to Run
 
 ```bash
-python gaussian_elimination_solver.py
+python systemsolver.py
 ```
 
 Follow the prompts to enter your matrix values, and see the full solution with all steps laid out.
